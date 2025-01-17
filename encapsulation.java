@@ -1,5 +1,5 @@
-student id: 22059189
-name: Aaron Tetteh
+// student id: 22059189
+// name: Aaron Tetteh
 
 
 public class CommissionEmployee {
